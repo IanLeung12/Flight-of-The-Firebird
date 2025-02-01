@@ -8,7 +8,7 @@ Inspired by Jetpack Joyride, contains many features ranging from:
 - Rebirth System
 - Animations
 - Story
-- Slots
+- Skins & Slots
 
 Run Flight of The Firebird.py to play
 ![image](https://github.com/user-attachments/assets/cb39e4e1-b097-4264-b931-91f96fa3be1b)
